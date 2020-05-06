@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      "react-native-sleek-loading-indicator@0.1.3",
+      "/Users/kira/Desktop/物联网/Projects/CMIOT_APP_Update_NPMTest"
+    ]
+  ],
+  "_from": "react-native-sleek-loading-indicator@0.1.3",
+  "_id": "react-native-sleek-loading-indicator@0.1.3",
+  "_inBundle": false,
+  "_integrity": "sha1-HhGRmSi6TjUUMKHhL0vL5SUy9Yw=",
+  "_location": "/react-native-sleek-loading-indicator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-sleek-loading-indicator@0.1.3",
+    "name": "react-native-sleek-loading-indicator",
+    "escapedName": "react-native-sleek-loading-indicator",
+    "rawSpec": "0.1.3",
+    "saveSpec": null,
+    "fetchSpec": "0.1.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-sleek-loading-indicator/-/react-native-sleek-loading-indicator-0.1.3.tgz",
+  "_spec": "0.1.3",
+  "_where": "/Users/kira/Desktop/物联网/Projects/CMIOT_APP_Update_NPMTest",
+  "author": {
+    "name": "Bilal Budhani",
+    "email": "bilalbudhani@gmail.com",
+    "url": "https://github.com/BilalBudhani"
+  },
+  "bugs": {
+    "url": "https://github.com/BilalBudhani/react-native-sleek-loading-indicator/issues"
+  },
+  "dependencies": {},
+  "description": "Sleek Loading Indicator for React Native",
+  "homepage": "https://github.com/BilalBudhani/react-native-sleek-loading-indicator#readme",
+  "keywords": [
+    "react-native",
+    "ios",
+    "react-components",
+    "loading",
+    "loader"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "Bilal Budhani",
+      "email": "bilalbudhani@gmail.com"
+    }
+  ],
+  "name": "react-native-sleek-loading-indicator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BilalBudhani/react-native-sleek-loading-indicator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}
