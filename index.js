@@ -8,9 +8,9 @@ let {
 } = require('react-native');
 let styles = require('./styles');
 let LoadingIndicator = require('./loader');
-import PropTypes from 'prop-types'
+import PropTypes from 'prop-types';
 
-export default class SleekLoadingIndicator extends React.Component{
+class SleekLoadingIndicator extends React.Component{
   static propTypes = {
     text: PropTypes.string,
     loading: PropTypes.bool,
@@ -33,3 +33,5 @@ export default class SleekLoadingIndicator extends React.Component{
     }
   }
 };
+
+module.exports = SleekLoadingIndicator;
