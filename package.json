@@ -17,7 +17,7 @@
     "url": "https://github.com/kirayamato1989/react-native-sleek-loading-indicator/issues"
   },
   "dependencies": {
-    "prop-types": "15.7.2"
+    "prop-types": "^15.7.2"
   }
   "homepage": "https://github.com/kirayamato1989/react-native-sleek-loading-indicator#readme"
 }
