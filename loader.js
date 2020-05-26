@@ -1,15 +1,14 @@
 'use strict';
 
-let React = require('react');
-let {
+import React, {Component} from 'react';
+import {
    View,
    Text,
-   ActivityIndicator,
-   StyleSheet
-} = require('react-native');
+   ActivityIndicator
+} from 'react-native';
 let styles = require('./styles');
 
-export default class LoadingIndicator extends React.Component {
+export default class LoadingIndicator extends Component {
    render() {
       return (
          <View style={styles.loadingContainer}>

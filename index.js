@@ -1,16 +1,14 @@
 'use strict';
 
-let React = require('react');
-let {
-   View,
-   Text,
-   StyleSheet
-} = require('react-native');
+import React,{Component} from 'react';
+import {
+   View
+} from 'react-native';
 let styles = require('./styles');
-let LoadingIndicator = require('./loader');
+import LoadingIndicator from './loader';
 import PropTypes from 'prop-types';
 
-class SleekLoadingIndicator extends React.Component{
+class SleekLoadingIndicator extends Component{
   static propTypes = {
     text: PropTypes.string,
     loading: PropTypes.bool,
